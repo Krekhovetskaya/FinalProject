@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 5
+login: 'LenOK'
+password: '1a8435b14a'

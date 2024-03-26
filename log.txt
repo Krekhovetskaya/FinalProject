@@ -1,0 +1,7 @@
+2024-03-19 15:54:19 INFO ====== WebDriver manager ======
+2024-03-19 15:54:19 INFO Get LATEST chromedriver version for google-chrome
+2024-03-19 15:54:19 INFO Get LATEST chromedriver version for google-chrome
+2024-03-19 15:54:19 INFO Driver [C:\Users\Akreh\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-19 15:54:20 INFO Test-1 start: проверка валидной авторизации
+2024-03-19 15:54:22 INFO Test-2 start: проверка перехода по кнопке about на страницу About Page
+2024-03-19 15:54:22 INFO Test-3 start: проверка размера шрифта заголовка страницы About Page
